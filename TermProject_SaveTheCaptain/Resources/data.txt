@@ -1,0 +1,6 @@
+animals,Lion,Zebra,Elephant,Bird,Tiger,Panda,Chicken,Hippo,Cat,Dog
+sports,Basketball,Soccer,Football,Badminton,Volleyball,Golf,Martial arts
+fruits,Banana,Orange,Apple,Strawberry,Mango,Tomato,watermelon,pineapple
+Music genres,Metal,Pop,Rock,Rap,Classic,Jazz,Nu metal,Blue,indies,
+Movies Genres,Comedy,Horror,Romance,Thriller,Action,Adventure,Science Fiction
+Brands,Nike,Adidas,Vans,Chanel,gucci,vans,converse,puma,onitsuka tiger
